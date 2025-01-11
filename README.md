@@ -1,1 +1,3 @@
-Lista de tarefas projeto Javascript
+Lista de tarefas - projeto para exercitar os conceitos do JavaScript HTML E CSS
+
+
